@@ -1,0 +1,265 @@
+.fline {
+    text-align: center;
+}
+
+
+.button4 {
+    /* bottom: +44px; */
+    /* text-align: right; */
+    position: relative;
+
+}
+
+
+
+
+.cricle {
+    border-radius: 50%;
+    width: 311px;
+}
+
+
+.fromDhaka {
+    background-color: rgba(0, 0, 255, 0.185);
+    box-sizing: border-box;
+    width: 400px;
+    padding: 20px;
+    padding-left: 31px;
+    padding-right: 31px;
+    border: 8px solid gold;
+    margin-top: 5px;
+
+}
+
+/* button style */
+.button-90 {
+    color: #fff;
+    padding: 15px 25px;
+    border-radius: 100px;
+    background-color: yellow;
+    background-image: radial-gradient(93% 87% at 87% 89%, rgba(0, 0, 0, 0.23) 0%, transparent 86.18%), radial-gradient(66% 87% at 26% 20%, rgba(255, 255, 255, 0.41) 0%, rgba(255, 255, 255, 0) 69.79%, rgba(255, 255, 255, 0) 100%);
+    box-shadow: 2px 19px 31px rgba(0, 0, 0, 0.2);
+    font-weight: bold;
+    font-size: 16px;
+    border: 0;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    cursor: pointer;
+}
+
+
+.frist p {
+    text-transform: lowercase;
+}
+
+
+.frist {
+    background-color: rgba(0, 0, 255, 0.185);
+    box-sizing: border-box;
+    width: 400px;
+    padding: 20px;
+    padding-left: 31px;
+    padding-right: 31px;
+    border: 7px solid gold;
+
+}
+
+.second {
+    background-color: rgba(9, 9, 12, 0.185);
+    box-sizing: border-box;
+    width: 400px;
+    padding: 20px;
+    padding-left: 31px;
+    padding-right: 31px;
+    border: 8px solid gold;
+    margin: 222px;
+}
+
+.three {
+    background-color: rgba(0, 0, 255, 0.185);
+    box-sizing: border-box;
+    width: 400px;
+    padding: 20px;
+    padding-left: 31px;
+    padding-right: 31px;
+    border: 8px solid gold;
+    margin-top: 5px;
+
+}
+
+.testmonial1 {
+    background-color: rgba(0, 0, 255, 0.185);
+    box-sizing: border-box;
+    width: 400px;
+    padding: 20px;
+    padding-left: 31px;
+    padding-right: 31px;
+    border: 8px solid gold;
+    margin-top: 5px;
+
+}
+
+.testimonial2 {
+    background-color: rgba(0, 0, 255, 0.185);
+    box-sizing: border-box;
+    width: 400px;
+    padding: 20px;
+    padding-left: 31px;
+    padding-right: 31px;
+    border: 8px solid rgb(0, 238, 255);
+    margin: 20px 20px 20px 20px;
+
+}
+
+.testimonial3 {
+    background-color: rgba(0, 0, 255, 0.185);
+    box-sizing: border-box;
+    width: 400px;
+    padding: 20px;
+    padding-left: 31px;
+    padding-right: 31px;
+    border: 8px solid gold;
+    margin-top: 5px;
+    margin: 20px 20px 20px 20px;
+
+}
+
+.ulli {
+    text-decoration: none;
+    background-color: aquamarine;
+    text-decoration: chartreuse;
+
+}
+
+.tcricle {
+    border-radius: 50%;
+    width: 52px;
+    border: 4px solid green;
+}
+
+
+
+
+
+
+
+
+
+/* CSS  buttoo style*/
+.button-70 {
+    background-image: linear-gradient(#0dccea, #0d70ea);
+    border: 0;
+    border-radius: 4px;
+    box-shadow: rgba(0, 0, 0, .3) 0 5px 15px;
+    box-sizing: border-box;
+    color: #fff;
+    cursor: pointer;
+    font-family: Montserrat, sans-serif;
+    font-size: .9em;
+    margin: 5px;
+    padding: 10px 15px;
+    text-align: right;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    justify-content: right;
+
+}
+
+
+@media only screen and (max-width: 740px) {
+
+    body {
+        background-color: #1C222A;
+    }
+
+    .fromDhaka {
+        margin: auto;
+        margin-bottom: 22px;
+    }
+
+    .frist {
+        margin-bottom: 22px;
+        margin: auto;
+    }
+
+    .second {
+        margin-bottom: 22px;
+        margin: auto;
+    }
+
+    .three {
+        margin: auto;
+    }
+
+    .testmonial1 {
+        margin: auto;
+    }
+
+    .testimonial2 {
+        margin: auto;
+    }
+
+    .testimonial3 {
+        margin: auto;
+    }
+
+    .second {
+        margin: auto;
+    }
+
+    .hello {
+        text-align: center;
+    }
+
+    .button-90 {
+        float: none;
+        color: #0dccea;
+        display: block;
+        margin: auto;
+        margin-top: 33px;
+        margin-bottom: 23px;
+    }
+
+
+    .nazmol {
+        top: -16px;
+        text-align: center;
+        position: relative;
+        text-align: left;
+        margin-left: 14px;
+    }
+
+    .img {
+        text-align: center;
+    }
+
+
+
+
+    .button4 {
+        bottom: -44px;
+        text-align: right;
+        position: relative;
+
+    }
+
+    .Services {
+        text-align: center;
+    }
+
+    .testimo {
+        text-align: center;
+    }
+
+
+
+
+
+
+
+
+
+
+}
